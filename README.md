@@ -1,2 +1,11 @@
-# myalloyprompt-backend
- Backend of a Simple Weather App 
+# Simple Weather App: Backend
+
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+node server.js
+```
